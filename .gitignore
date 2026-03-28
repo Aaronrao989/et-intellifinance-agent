@@ -1,0 +1,87 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# =========================
+# 🔐 Environment Variables
+# =========================
+.env
+
+# =========================
+# 📦 Dependencies / Build
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# 📊 Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 🧪 Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# 📝 Logs
+# =========================
+logs/
+*.log
+audit_log.json
+error_log.json
+
+# =========================
+# 🗂️ Data Files (Optional)
+# =========================
+data/*.csv
+data/*.xlsx
+
+# If you want to KEEP sample data, comment above and use:
+# !data/sample_transactions.csv
+# !data/clean_transactions.csv
+
+# =========================
+# 🖥️ OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧑‍💻 IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 🌐 Frontend
+# =========================
+node_modules/
+
+# =========================
+# 🚀 Deployment
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# Misc
+# =========================
+# Misc
+# =========================
+*.bak
+*.tmp
