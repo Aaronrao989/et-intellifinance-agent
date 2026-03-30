@@ -874,7 +874,7 @@ async function uploadFile() {
     const formData = new FormData();
     formData.append("file", file);
 
-    const response = await fetch("http://127.0.0.1:8000/analyze", {
+    const response = await fetch("https://et-intellifinance-agent-1.onrender.com/analyze", {
         method: "POST",
         body: formData
     });
@@ -1023,7 +1023,7 @@ async function askQuery() {
         return;
     }
 
-    const response = await fetch("http://127.0.0.1:8000/query", {
+    const response = await fetch("https://your-app-name.onrender.com/query", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
