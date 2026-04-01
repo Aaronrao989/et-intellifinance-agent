@@ -43,12 +43,6 @@ logs/
 audit_log.json
 error_log.json
 
-# =========================
-# 🗂️ Data Files (Optional)
-# =========================
-data/*.csv
-data/*.xlsx
-
 # If you want to KEEP sample data, comment above and use:
 # !data/sample_transactions.csv
 # !data/clean_transactions.csv

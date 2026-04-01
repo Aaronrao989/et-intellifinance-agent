@@ -1,0 +1,15 @@
+transaction_id,amount,date,description
+TXN001,5000,2024-01-01,Office Supplies
+TXN002,15000,2024-01-02,Client Payment
+TXN003,2000000,2024-01-03,Large Investment
+TXN004,-500,2024-01-03,Refund Error
+TXN005,7000,2024-01-04,Travel Expense
+TXN006,7000,2024-01-04,Travel Expense Duplicate
+TXN006,7000,2024-01-04,Travel Expense Duplicate
+TXN007,12000,2024-01-05,Marketing Spend
+TXN008,12000,2024-01-05,Marketing Spend Repeat
+TXN009,12000,2024-01-05,Marketing Spend Repeat
+TXN010,12000,2024-01-05,Marketing Spend Repeat
+TXN011,12000,2024-01-05,Marketing Spend Repeat
+TXN012,12000,2024-01-05,Marketing Spend Repeat
+TXN013,12000,2024-01-05,Marketing Spend Repeat

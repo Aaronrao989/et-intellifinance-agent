@@ -1,0 +1,9 @@
+transaction_id,amount,date,description
+TXN101,5000,2024-02-01,Office Supplies
+TXN102,12000,2024-02-02,Client Payment
+TXN103,15000,2024-02-03,Consulting Fee
+TXN104,8000,2024-02-04,Travel Expense
+TXN105,9500,2024-02-05,Marketing Spend
+TXN106,11000,2024-02-06,Software Subscription
+TXN107,7000,2024-02-07,Utilities
+TXN108,6000,2024-02-08,Stationery
